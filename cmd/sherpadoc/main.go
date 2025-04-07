@@ -48,7 +48,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/mjl-/sherpadoc"
+	"github.com/qompassai/sherpadoc"
 
 	"golang.org/x/mod/modfile"
 )

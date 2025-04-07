@@ -18,7 +18,7 @@ import (
 
 	"golang.org/x/tools/go/packages"
 
-	"github.com/mjl-/sherpadoc"
+	"github.com/qompassai/sherpadoc"
 )
 
 // ParsedPackage possibly includes some of its imports because the package that contains the section references it.

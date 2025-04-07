@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/mjl-/sherpadoc"
+	"github.com/qompassai/sherpadoc"
 )
 
 func sherpaSection(sec *section) *sherpadoc.Section {
