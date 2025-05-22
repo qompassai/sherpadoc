@@ -1,6 +1,11 @@
-module github.com/mjl-/sherpadoc
+// /qompassai/sherpadoc/go.mod
+// ----------------------------------
+// Copyright (C) 2025 Qompass AI, All rights reserved
 
-go 1.16
+
+module github.com/qompassai/sherpadoc
+
+go 1.24.3
 
 require (
 	golang.org/x/mod v0.5.1
